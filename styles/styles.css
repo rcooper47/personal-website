@@ -9,6 +9,9 @@ a:link, a:visited, a:hover, a:active
     text-decoration: none;
     color: #edf5e1;
 }
+a:hover {
+    background-color: #8ee4af;
+   }
 .nav-button {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
@@ -44,6 +47,7 @@ body {
     margin:0;
     font-family: Arial, Helvetica, sans-serif;
     background: linear-gradient(to left, #5cdb95 60%, #05386B 40%);
+    overflow: hidden; /* Hide scrollbars */
 }
 
 .my-name {
