@@ -20,6 +20,10 @@ a:link, a:visited, a:hover, a:active
     flex-direction: row;
     height: 100vh;
 }
+.mark{
+    color: black;
+    background: none;
+}
 /*
 .sidebar {
     display: flex;
